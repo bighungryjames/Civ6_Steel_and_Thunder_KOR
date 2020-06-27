@@ -1,0 +1,94 @@
+<GameData><LocalizedText>
+<Replace Language="en_US" Tag="LOC_ABILITY_AUTOMATIC_GUNFIRE_DESCRIPTION"><Text>근접, 대기병, 경기병 유닛 상대시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_ABILITY_CITY_CENTER_NERF_DESCRIPTION"><Text>특수지구 상대 시 [ICON_Strength] 전투력 -6.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_ABILITY_EXPLORER_DESCRIPTION"><Text>강을 건너거나 바다에서 상륙할 때 이동력 패널티 없음.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_ABILITY_PLUS_X_WHEN_DEFENDING_DESCRIPTION"><Text>방어 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_ABILITY_PRE_GUNPOWDER_MELEE_ATTACK_DESCRIPTION"><Text>특수지구가 아닌 타일에 있는 화약시대 이전 근접 계열 유닛 공격 시 [ICON_Strength] 전투력 +6.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_1"><Text>코그(Cog)는 10세기에 처음 등장하여 12세기부터 널리 이용된 함선입니다. 함체를 이루는 판자를 서로 겹치는 클링커 방식으로 건조된 배로, 주로 발트해 연안의 프로이센 지방에 풍부했던 참나무로 만들어졌습니다. 코그는 주 돛대 하나와 사각형 가로돛 하나를 달고 있었습니다. 이 함선들은 중세 유럽의 해상무역에 주로 투입되었고, 특히 한자 동맹의 발트해 지역 교역에 사용되었습니다. 15에서 25미터 정도의 길이와 5에서 8미터 정도의 폭을 가지고 있었으며, 가장 큰 코그는 200톤 가량의 화물을 실을 수 있었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_COG_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_1"><Text>흉갑기병은 갑옷과 화약무기를 착용한 기병으로, 15세기 후반 유럽에서 처음으로 등장했습니다. "퀴라시에르(Cuirassier)"란 단어는 프랑스어로 "퀴라스를 착용한 자"란 뜻으로, 그들이 입었던 가슴갑옷을 일컫던 표현에서 따온 명칭입니다. 첫 흉갑기병들은 맨앳암즈나 반창기병과 같은 중갑 기병에서 파생된 병과로, 그들이 원래 사용하던 기병창 대신 권총을 들기 시작했던 것에서 기원합니다. 17세기 후반부터 흉갑기병은 팔다리 방어구를 착용하지 않게 되었으며 가슴 갑옷과 등 갑옷으로 구성된 흉갑만 입게 되었으며 가끔씩 투구를 쓰는 경우는 있었습니다. 이 시기에 이르면, 흉갑기병의 주무장은 검이 되었으며, 권총은 부무장으로 사용되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_CUIRASSIER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_1"><Text>"발견의 시대" 또는 "탐험의 시대"는 15세기 말부터 18세기를 일컫는 말로, 적극적인 해외 탐사가 유럽 문화의 전면에 부상하여 처음으로 세계화가 시작된 시기입니다. 이 시기는 유럽이 식민주의와 중상주의를 받아들인 시기와 일치합니다. 유럽인에게 알려지지 않았던 세계가 이 시기에 알려졌지만 대부분은 이미 거주민이 있었습니다. 많은 비유럽인들에게, 이 발견의 시대는 개척민들과 침략자들이 알려지지 않았던 대륙에서 몰려온 시기를 의미합니다.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_2"><Text>전지구적 탐사는 포르투갈인들이 마데이라 군도와 아소르스 군도, 아프리카 해안, 그리고 인도로 향하는 항로를 1498년에 발견한 것에서 시작합니다. 그리고, 스페인(카스티야) 왕의 지시를 받아 크리스토퍼 콜럼버스가 1492년과 1502년 사이에 실시했던 항해와 1519년과 1522년 사이의 첫 세계일주 항해 역시 중요한 사건이었습니다. 이런 발견들은 대서양, 인도양, 태평양을 건너는 해양 탐사와 남북아메리카, 아시아, 아프리카, 오스트레일리아의 육상 탐사로 사람들을 이끌었고, 이런 탐사들은 19세기 말까지 지속되었습니다. 세계의 탐사는 극지방이 20세기에 탐사되는 것으로 마무리되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_EXPLORER_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_1"><Text>갈레아스는 대형 교역용 갤리의 발전으로 출현한 군함입니다. 군사 용도로 전환되었기 때문에 일반(경장형) 갤리보다 보다 높고, 크고, 느렸습니다. 이들은 최대 32개의 노를 가지고 있었으며, 각각의 노는 5명이 운영앴습니다. 보통은 돛대 3개와 선수루, 선미루를 갖추고 있었습니다. 갈레아스를 일반 갤리선과 비견될 정도로 최대한 빠르게 개량하는 연구는 베네치아에서 활발히 일어났습니다. 함포가 설치된 포갑판은 노꾼들의 머리 위로 설치되는 경우가 많았지만, 그 반대의 경우를 묘사한 그림도 남아있습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_2"><Text>갈레아스는 진짜 갤리보다 돛을 더 많이 달고 있었으며 훨씬 치명적이었습니다. 갈레아스의 현측에 잡힌 갤리는 절망적인 상황에 놓이게 되었는데, 이는 갈레아스의 현측에는 전열함의 현측과 마찬가지로 화포가 적재되었기 때문이었습니다. 갈레아스는 상대적으로 적은 숫자만이 건조되었습니다. 갈레아스의 단점들 중 하나로는, 갈레아스는 노보다 돛에 더 많이 의지했기 때문에 전투가 시작될 때 갤리 대열의 정면에 자리잡을 수 있다는 보장이 없었기 때문입니다. 하지만 이들은 1571년의 레판토 해전에서 기용되었으며, 갈레아스의 화력이 신성동맹 함대의 승리에 기여했습니다. "라 지로나" 함을 포함해 상당수의 항해 가능한 갈레아스가 1588년 스페인 무적함대에 포함되기도 했습니다. 15세기에 프리깃이라고 명명된 보다 가벼운 갈레아스가 남유럽 국가들에서 쾌속 갤리로 무장한 북아프리카 바르바리 해적에 대항하기 위해 등장했습니다.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_3"><Text>지중해는 기후가 덜 위험하고 풍향이 변덕스러웠기 때문에 다른 나라들에서 갈레아스와 갤리가 도태된 이후로도 베네치아와 오스만 제국을 포함한 많은 지중해권 나라에서 계속해서 사용되었습니다. 그러나 시간이 더 흘러, "둥근 배"와 갈레아스는 대서양 연안의 유럽에서 기원한 갈레온과 전열함으로 완전히 대체되었습니다. 베네치아의 첫 전열함은 1660년에 건조되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GALLEASS_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_1"><Text>개틀링 기관총은 가장 유명한 고속 연사, 스프링 장전, 수동 크랭크 연사화기로 현대 기관총의 전임자입니다. 리처드 개틀링이 개발한 이 무기는 1860년대 미국 남북전쟁에서 북부군이 처음으로 실전 배치한 것으로 유명합니다. 나중에는 다양한 군사분쟁에 이 무기가 다시 배치되었는데, 보신전쟁, 영국-줄루 전쟁, 미국-스페인 전쟁의 산 후안 언덕 점령전이 그 예시들입니다. 1877년 철도 대파업 사태때 민병대와 주방위군이 펜실베니아 피츠버그 등지에서 사용하기도 했습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_2"><Text>개틀링 기관총은 순환형으로 배치된 다중 총열이 냉각을 도왔으며 사격과 장전 기전이 동기화되어있었습니다. 각각의 총열은 순환의 특정 지점에 도달하면 총알을 한 발 쏘았으며, 이후 총열의 회전에 따라 탄피를 배출하고 새로운 탄약을 장전했는데, 이 과정에서 총열은 약간이나마 냉각될 수 있었습니다. 이런 배치를 통해 과열 문제를 일으키지 않으면서 더 빠른 연사속도를 달성할 수 있었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_GATLING_GUN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1"><Text>장검은 중세와 르네상스기 전장에서 가장 다재다능한 무기였습니다. 장창보다 더 가볍고 지니고 다니기 쉬웠으며, 한손 또는 양손으로 모두 사용할 수 있어 검사가 방패를 같이 들 수도 있었습니다. 장창병과의 정면전투에서 장검병은 굉장한 불리함을 겪었는데, 상대의 무기가 더 길었기 때문에 공격 거리에 도달하기 전에 큰 피해를 입었기 때문입니다. 그러나, 장검병은 장창병 대열에 비해 훨씬 빠르고 기동성이 좋았기 때문에 장창병 대열의 측후방을 덮칠 수 있었다면 장창병은 그대로 죽은 목숨이었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_1"><Text>역사가들은 편자의 기원에 대해 의견이 분분합니다. 철 자체가 귀한 상품이었기 때문에 편자를 비롯한 철제 물품들은 손상되어도 다시 재련되어 재사용되었기 때문에 명확한 고고학적 증거를 얻기 어렵기 때문입니다. 어떤 사람들은 드루이드를 지목하지만, 이 주장을 뒷받침할 증거는 없습니다. 1897년에 기원전 400년경에 지어진 에트루리아 무덤에서 못구멍으로 보이는 것이 뚫린 청동제 편자 네 점이 발견되었습니다. 어떤 역사가들은 기원전 54년에 사망한 카툴루스의 기록에 등장하는 "노새 신발"이라는 물건에 대한 언급을 통해 기원전 100년경 로마인들이 편자를 발명했다고 추정합니다. 하지만 이 로마의 "말 신발" 또는 "노새 신발"은 말의 발굽에 못박힌 편자가 아니라 철판으로 보강된 동물용 가죽 신발에 불과하다는 의견도 있습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_2"><Text>못으로 고정하는 편자에 대한 현존하는 기록은 비교적 최근에야 등장하는데, 첫 기록은 서기 900년경에야 등장하지만, 출토되는 유물의 지층 분석에 따르면 그 이전부터 사용되었을 가능성이 높습니다. 동로마 제국의 레온 6세 황제 재위기 이전에는 못으로 고정하는 편자에 대한 제대로 된 기록이 없으며, 973년부터는 가끔씩 사료에 등장합니다. 서기 500년이나 6000년 이전에는 못으로 고정하는 편자에 대한 어떠한 증거도 등장하지 않으나, 벨기에 투르네에 위치한 5세기경에 지어진 것으로 추정되는 프랑크 왕국의 왕 킬데리크 1세의 유적에서 못과 함께 발견된 편자가 출토되기도 했습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_3"><Text>서기 1000년 경에는 청동으로 주조된 못구멍이 뚫린 편자는 유럽에서 보편적으로 사용되었습니다. 부채꼴의 철편에 여섯개의 못구멍이 뚫린 형태가 흔했습니다. 13세기와 14세기에는 철제 편자가 대량으로 생산되었습니다. 십자군이 결성될 무렵(1096년-1270년)에는 편자는 광범위한 기록들에서 자주 등장합니다. 이 시기에는 철의 가치에 힘입어 세금을 낼 때 동전 대신에 편자를 사용하기도 했습니다. 13세기에 이르러 편자는 대량으로 생산되었으며, 상점에서 완제품을 바로 구매할 수 있었습니다. 16세기에는 "장제"라는 것이 보편화되었는데, 이것은 말에게 편자를 장착하기 직전에 달구어진 편자를 말의 발굽 모양에 딱 맞게 성형하는 것을 의미합니다. 편자에 대한 수요 덕분에 대장장이의 일은 "중세와 근대의 가장 위대하고 핵심적인 수공업 기술이자 야금학의 발전에 기여한 기술"이 되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MEDIEVAL_HORSEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_1"><Text>박격포는 저속의 투사체를 짧은 사거리로 발사하는 장비입니다. 박격포는 전통적으로 고각의 탄도로 폭발성 박격포탄을 발사하는 무기로 사용되었습니다. 이 무기는 보통은 전장식으로 장전되었으며 짧고 강선이 없는 활강 포신으르 가지고 있었으며, 일반적으로 구경의 15배 길이 정도의 구경장을 가지고 있었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_MORTAR_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_1"><Text>
+소총은 어깨에 대고 사격하도록 설계된 화기입니다. 총열 안에는 "강선"이라고 불리는 굴곡이 새겨져 있어 발사되는 투사체가 회전하도록 되어 있었으며, 이는 강선의 도움 없이 발사된 투사체에 비해 더 긴 사거리와 정확도를 가져다주었습니다. 최초로 강선이 파인 총열을 개발하려는 노력은 15세기 유럽에서 있었으나 제조의 어려움 탓에 19세기가 되어서야 보편적으로 사용될 수 있었습니다. 미국 독립전쟁에서 미국의 개척자들은 소총으로 무장했습니다. 또한 나폴레옹 전쟁들과 1812년 미영전쟁에서 영국과 미국의 척후병 및 정찰병 역시 강선 머스킷으로 무장했지만, 이 무기들의 느린 재장전 속도 탓에 일반적인 보병의 무장으로는 한동안 채용되지 못했습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_2"><Text>"미니에 탄"의 개발로 인해 재장전 시간은 극도로 단축되었으며, 미국 남북전쟁 시기에 이르러 강선 머스킷은 주요 유럽 군대 모두에서 채용되게 됩니다. 남북전쟁이 끝날 무렵에 강선 머스킷은 후장식 연발 소총에게 도태되게 됩니다. 숙련된 사수조차 20 또는 30초에 한 발을 쏘는 것에 그쳤던 강선 머스킷에 비해 후장식 소총은 노리쇠를 후퇴하고 방아쇠를 당기는 것만으로 발사되어 1초에 한 발에 가까운 연사속도를 지녔습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_RIFLEMAN_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_1"><Text>자주포는 목표물을 향해 자체적으로 기동할 수 있는 이동 체계와 결합된 포병입니다. 이 용어는 자주평사포, 자주곡사포, 자주로켓포를 모두 포괄합니다. 보통 무한궤도가 장착된 고기동성 차제에 대구경 곡사포, 야전포, 박격포, 로켓 혹은 미사일 발사기를 장비했습니다. 이런 자주포는 보통 장거리 간접사격을 통해 전장에 지원사격을 가했습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_2"><Text>과거에는 자주포 중에는 돌격포나 구축전차 등 직사포를 탑재한 종류도 있었습니다. 이들은 상대적으로 중장갑을 두른 차체를 지녔으며, 전자는 보병에게 근접 화력지원을 하는 용도로, 후자는 대전차 전투에 특화된 용도로 사용되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_3"><Text>현대의 자주포는 겉으로 보기에는 전차와 유사해 보이지만, 그보다 훨씬 얇은 장갑을 가지고 있어 직사포와 직접 교전하면 생존하기 어렵습니다. 하지만 그 정도의 장갑으로도 파편이나 소화기의 사격으로부터 승무원을 보호할 수 있으며, 이 때문에 장갑차로도 분류됩니다. 또한 적 보병에 대항하기 위해 종종 기관총이 거치됩니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_4"><Text>견인포에 비했을 때 자주포의 특장점은 전투에 훨씬 신속하게 돌입할 수 있다는 것입니다. 견인포가 사격하기 뒤해서는 일단 멈춰서 방열을 해야 했으며, 일일히 견인해서 새로운 위치로 옮겨야 합니다. 반면, 자주포는 원하는 위치로 스스로 이동하고 정해진 위치에 도달하면 거의 즉시 사격을 시작할 수 있으며, 다시 재빠르게 새로운 위치로 이동할 수 있습니다. 이 "쏘고-튀고" 능력은 기동전 상황에서 매우 유용하며 특히 진격하는 상황에서 빛을 발합니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_SELF_PROPELLED_ARTILLERY_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_1"><Text>트레뷰셋은 강력한 중세의 공성병기입니다. 12세기 유럽에서 처음 등장한 트레뷰셋은 150킬로그램에 달하는 투사체를 장거리에서 적의 성벽을 넘겨 쏠 수 있었습니다. 중세 유럽 버전의 트레뷰셋은 무게추를 활용했습니다. 굉장히 긴 목재 장대의 한쪽 끝에는 투석구가 달렸으며, 반대편에는 무거운 추가 고정되었고 이 모든 것이 단단한 목재 틀에 장착되었습니다. 이 긴 장대는 줄을 당겨 투석구 쪽을 낮추고 반대편의 무게추를 높이 들어올린 상태로 만든 뒤에 투사체를 투석구에 장전할 수 있었습니다. 이후 줄을 놓으면, 무게추가 떨어지면서 투석구는 채찍처럼 휘둘리게 되는데, 이 과정에서 투사체는 굉장한 거리를 날아가게 되었습니다. 이 장치는 보통 이동이 불가능했으며 긴 시간을 들여 조립해야 했기에 장기간의 공성전에 한해서만 사용되었습니다. </Text></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_2"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_3"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_4"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DLV_TREBUCHET_CHAPTER_HISTORY_PARA_5"><Text/></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_COG_DESCRIPTION"><Text>중세 시대 해상 근접 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_COG_NAME"><Text>코그</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_DLV_CUIRASSIER_DESCRIPTION"><Text>산업 시대 중기병 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_DLV_CUIRASSIER_NAME"><Text>흉갑기병</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_EXPLORER_DESCRIPTION"><Text>고기동성 르네상스 시대 정찰 유닛. 강을 건너거나 바다에서 상륙할 때 이동력 패널티 없음.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_EXPLORER_NAME"><Text>탐험가</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_GALLEASS_DESCRIPTION"><Text>중세 시대 해상 원거리 유닛. 방어 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_GALLEASS_NAME"><Text>갈레아스</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION"><Text>산업 시대 원거리 유닛. 근접, 대기병, 경기병 유닛 상대 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_GATLING_GUN_NAME"><Text>개틀링 기관총</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION"><Text>중세 시대 근접 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_LONGSWORDSMAN_NAME"><Text>장검병</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION"><Text>원자력 시대 원거리 유닛. 근접, 대기병, 경기병 유닛 상대 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION"><Text>중세 시대 경기병 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME"><Text>추적자</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_MORTAR_DESCRIPTION"><Text>원자력 시대 원거리 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_MORTAR_NAME"><Text>박격포</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION"><Text>산업 시대 근접 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_RIFLEMAN_NAME"><Text>소총병</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION"><Text>정보화 시대 원거리 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME"><Text>로켓 발사기</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_DESCRIPTION"><Text>정보화 시대 공성 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_SELF_PROPELLED_ARTILLERY_NAME"><Text>자주포</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_TREBUCHET_DESCRIPTION"><Text>중세 시대 공성 유닛.</Text></Replace>
+<Replace Language="en_US" Tag="LOC_UNIT_TREBUCHET_NAME"><Text>트레뷰셋</Text></Replace>
+<Replace Language="en_US" Tag="MINUS_X_VS_CITY_CENTERS_DESC"><Text>특수지구 상대 시 [ICON_Strength] 전투력 -6.</Text></Replace>
+<Replace Language="en_US" Tag="PLUS_15_VS_LIGHT_CAVALRY_COMBAT_BONUS_DESC"><Text>경기병 유닛 상대 시 [ICON_Strength] 전투력 +15.</Text></Replace>
+<Replace Language="en_US" Tag="PLUS_20_VS_HEAVY_CAVALRY_COMBAT_BONUS_DESC"><Text>중기병 유닛 상대 시 [ICON_Strength] 전투력 +20.</Text></Replace>
+<Replace Language="en_US" Tag="PLUS_X_VS_MELEE_ANTICAV_LIGHTCAV_COMBAT_BONUS_DESC"><Text>근접, 대기병, 경기병 유닛 상대 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+<Replace Language="en_US" Tag="PLUS_X_VS_PRE_GUNPOWDER_MELEE_DESC"><Text>특수지구가 아닌 타일에 있는 화약시대 이전 근접 계열 유닛 공격 시 [ICON_Strength] 전투력 +6.</Text></Replace>
+<Replace Language="en_US" Tag="PLUS_X_WHEN_DEFENDING_DESC"><Text>방어 시 [ICON_Strength] 전투력 +8.</Text></Replace>
+</LocalizedText></GameData>
